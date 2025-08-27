@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8edf20ca-2f87-4b47-aea6-f82cd34377b0" />
+  </component>
+  <component name="JsBuildToolPackageJson" sorting="DEFINITION_ORDER" />
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
